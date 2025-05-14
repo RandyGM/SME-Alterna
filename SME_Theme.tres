@@ -1,0 +1,6 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://cbx6lujcenyvs"]
+
+[ext_resource type="FontFile" uid="uid://kes5qh0r7rg5" path="res://super-mario-maker-2.otf" id="1_h0w4s"]
+
+[resource]
+default_font = ExtResource("1_h0w4s")
